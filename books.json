@@ -1,0 +1,61 @@
+{
+    "1": {
+        "title": "Book1",
+        "author": "Author 1",
+        "genre": "Genre1",
+        "year": 2021,
+        "price": 10.99
+    },
+    "2": {
+        "title": "Book2",
+        "author": "Author 2",
+        "genre": "Genre2",
+        "year": 2020,
+        "price": 12.99
+    },
+    "3": {
+        "title": "new",
+        "author": "dew",
+        "year": 2019
+    },
+    "4": {
+        "title": "ewq",
+        "author": "qwe",
+        "year": 2021
+    },
+    "5": {
+        "title": "wew",
+        "author": "weed",
+        "year": 2018
+    },
+    "6": {
+        "title": "waw",
+        "author": "waaw",
+        "year": 2018
+    },
+    "7": {
+        "title": "wre",
+        "author": "ewww",
+        "year": 2017,
+        "price": 23.0
+    },
+    "8": {
+        "title": "dew",
+        "author": "dew john",
+        "year": 2018,
+        "price": 23.0
+    },
+    "9": {
+        "title": "search",
+        "author": "lost",
+        "year": 2016,
+        "price": 24.0
+    },
+    "10": {
+        "title": "Ambrose's life",
+        "author": "amb ozumba",
+        "genre": "story",
+        "year": 2024,
+        "price": 40.0
+    }
+}
