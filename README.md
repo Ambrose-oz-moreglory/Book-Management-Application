@@ -7,6 +7,6 @@
 5. Search Book
 6. Sort Books by Title
 7. Find Oldest Book
-8. Find NewestBook
+8. Find Newest Book
 9. Count Titles by Author
 10. Exit
